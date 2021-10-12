@@ -25,7 +25,7 @@ Openscapes’ long-term goal is to enable robust, inclusive, and enduring scienc
 
 [Openscapes.org](https://openscapes.org/) is co-directed by project leads Lowndes and Robinson, and operated at the National Center for Ecological Analysis and Synthesis (NCEAS), University of California Santa Barbara.
 
-**NMFS Openscapes 2021-2022 has been funded by NOAA Northwest Fisheries Science Center ([NWFSC](https://www.fisheries.noaa.gov/about/northwest-fisheries-science-center)), 
+**NMFS Openscapes 2021-2022 is supported by the NOAA Northwest Fisheries Science Center ([NWFSC](https://www.fisheries.noaa.gov/about/northwest-fisheries-science-center)), 
 NOAA Fisheries Northeast Fisheries Science Center ([NEFSC](https://www.fisheries.noaa.gov/about/northeast-fisheries-science-center)),
 NOAA Fisheries Alaska Fisheries Science Center ([AFSC](https://www.fisheries.noaa.gov/about/alaska-fisheries-science-center)),
 a grant from the [Fisheries Information System Program](https://www.fisheries.noaa.gov/national/commercial-fishing/fisheries-information-system-program) 
