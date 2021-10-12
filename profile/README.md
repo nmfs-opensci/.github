@@ -3,9 +3,6 @@
 
 ### The NMFS Openscapes
 
-NOAA Fisheries is supporting Openscapes Champions cohorts through 2021-2020: NWFSC Spring 2021, [NMFS Fall 2021](https://openscapes.github.io/2021-noaa-nmfs/), 
-[FDD Fall 2021](https://openscapes.github.io/2021-fdd/), and AFSC 2021-2022.
-
 The overarching vision of the NMFS Openscapes is to support scientific researchers within NOAA Fisheries by providing training in reproducible scientific workflows
 and platforms, faciliating collaboration across divisions in common scientific data science tasks, and providing shared "best practices" resources.
 
@@ -25,9 +22,6 @@ Openscapes’ long-term goal is to enable robust, inclusive, and enduring scienc
 
 [Openscapes.org](https://openscapes.org/) is co-directed by project leads Lowndes and Robinson, and operated at the National Center for Ecological Analysis and Synthesis (NCEAS), University of California Santa Barbara.
 
-**NMFS Openscapes 2021-2022 is supported by the NOAA Northwest Fisheries Science Center ([NWFSC](https://www.fisheries.noaa.gov/about/northwest-fisheries-science-center)), 
-NOAA Fisheries Northeast Fisheries Science Center ([NEFSC](https://www.fisheries.noaa.gov/about/northeast-fisheries-science-center)),
-NOAA Fisheries Alaska Fisheries Science Center ([AFSC](https://www.fisheries.noaa.gov/about/alaska-fisheries-science-center)),
-a grant from the [Fisheries Information System Program](https://www.fisheries.noaa.gov/national/commercial-fishing/fisheries-information-system-program) 
-and through an award to [UMass Dartmouth-SMAST](https://www.umassd.edu/smast/) through [CINAR](http://www.cinar.org/).**
+NOAA Fisheries is supporting the following Openscapes Champions cohorts: NWFSC Spring 2021, [NMFS Fall 2021](https://openscapes.github.io/2021-noaa-nmfs/), 
+[FDD Fall 2021](https://openscapes.github.io/2021-fdd/), and AFSC 2021-2022.
 
