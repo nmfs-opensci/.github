@@ -1,5 +1,5 @@
 # NMFS Openscapes
-<img align="right" src="logo-transparent-crop.png" width="400">  
+<img align="right" src="https://github.com/nmfs-openscapes/.github/blob/main/profile/logo-transparent-crop.png" width="400">  
 
 ### The NMFS Openscapes
 
