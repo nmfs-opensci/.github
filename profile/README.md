@@ -1,5 +1,5 @@
 # NMFS Openscapes
-<img align="right" src="logo-transparent-crop.png" width="500">  
+<img align="right" src="logo-transparent-crop.png" width="400">  
 
 ### The NMFS Openscapes
 
