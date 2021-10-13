@@ -1,5 +1,7 @@
-# NMFS Openscapes
+# NMFS Openscapes [Training](https://nmfs-openscapes.github.io/2-Training/) 
 <img align="right" src="https://github.com/nmfs-openscapes/.github/blob/main/profile/logo-transparent-crop.png" width="400">  
+
+<a href="somepage.html"><img src="https://github.com/nmfs-openscapes/.github/blob/main/profile/training.png" width="100"></a>
 
 ### The NMFS Openscapes
 
