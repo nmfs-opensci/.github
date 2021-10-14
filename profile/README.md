@@ -11,12 +11,11 @@
 The overarching vision of the NMFS Openscapes is to support scientific researchers within NOAA Fisheries by providing training in reproducible scientific workflows
 and platforms, faciliating collaboration across divisions in common scientific data science tasks, and providing shared "best practices" resources.
 
-The NMFS Openscapes GitHub org provides a shared GitHub resource for:
+The NMFS Openscapes GitHub org provides a shared GitHub resource to:
 
 * Support organizational excellence by developing and sharing training resources available to all NOAA Fisheries offices.
-* Supporting "user groups", such as R User Groups, within NOAA Fisheries by providing a calendar for posting events, providing discussion threads, and
-providing a cross-office location for sharing training materials.
-* Collaborating on resources such as "best practices", "report writing templates", "package template" tailored to NOAA Fisheries applications.
+* Support "user groups", such as R User Groups, within NOAA Fisheries by providing a calendar for posting events, providing discussion threads, and providing a cross-office location for sharing training materials.
+* Collaborate on resources such as "best practices", "report writing templates", "package template" tailored to NOAA Fisheries applications.
 * Helping science teams fulfil NOAA Open Science mandates: [NOAA Data Strategy for open and transparent data and analyses](https://sciencecouncil.noaa.gov/Portals/0/2020%20Data%20Strategy.pdf?ver=2020-09-17-150024-997), 
 [Federal Data Strategy for accountability and transparency](https://strategy.data.gov/).
 * Amplify as many open science leaders as possible, transforming their workflows to be more collaborative, efficient and reproducible.
