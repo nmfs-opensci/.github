@@ -23,9 +23,7 @@ providing a cross-office location for sharing training materials.
 
 ## More Background on Openscapes and the Champions program:
 
-Openscapes’ long-term goal is to enable robust, inclusive, and enduring science- and data-driven solutions to global and time-sensitive challenges. We approach open science as a spectrum, as a behavior change, and as a movement. We see data analysis and stewardship as entryways to meet scientists where they are, helping them develop new skill sets and mindsets while empowering them as leaders. With NASA support, the project team and the partners, the Openscapes Framework fundamentally changes the paradigm for supporting research teams and DAAC mentors, first to work more openly with their teams on the cloud, and ultimately to advance open science!
-
-[Openscapes.org](https://openscapes.org/) is co-directed by project leads Lowndes and Robinson, and operated at the National Center for Ecological Analysis and Synthesis (NCEAS), University of California Santa Barbara.
+Openscapes’ long-term goal is to enable robust, inclusive, and enduring science- and data-driven solutions to global and time-sensitive challenges. We approach open science as a spectrum, as a behavior change, and as a movement. We see data analysis and stewardship as entryways to meet scientists where they are, helping them develop new skill sets and mindsets while empowering them as leaders. With NASA support, the project team and the partners, the Openscapes Framework fundamentally changes the paradigm for supporting research teams and DAAC mentors, first to work more openly with their teams on the cloud, and ultimately to advance open science! [Openscapes.org](https://openscapes.org/) is co-directed by project leads Lowndes and Robinson, and operated at the National Center for Ecological Analysis and Synthesis (NCEAS), University of California Santa Barbara.
 
 NOAA Fisheries is supporting the following Openscapes Champions cohorts: NWFSC Spring 2021, [NMFS Fall 2021](https://openscapes.github.io/2021-noaa-nmfs/), 
 [FDD Fall 2021](https://openscapes.github.io/2021-fdd/), and AFSC 2021-2022.
