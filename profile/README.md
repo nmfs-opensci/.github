@@ -9,7 +9,7 @@
 ### The NMFS Openscapes
 
 The overarching vision of the NMFS Openscapes is to support scientific researchers within NOAA Fisheries by providing training in reproducible scientific workflows
-and platforms, faciliating collaboration across divisions in common scientific data science tasks, and providing shared "best practices" resources.
+and platforms, facilitating collaboration across divisions in common scientific data science tasks, and providing shared "best practices" resources.
 
 The NMFS Openscapes GitHub org provides a shared GitHub resource to:
 
