@@ -10,8 +10,9 @@ and platforms, facilitate collaboration across offices and regions in shared sci
 The NMFS Open Science GitHub org provides a shared GitHub resource to:
 
 * Support organizational excellence by developing and sharing training resources available to all NOAA Fisheries offices.
+* Help communicate the activities and support the efforts of Open Science programs within NOAA Fishieries, such as agency integrated toolbox programs, stock assessment open source development teams, and open data initiatives.
 * Support "user groups", such as R User Groups, within NOAA Fisheries by providing a calendar for posting events, providing discussion threads, and providing a cross-office location for sharing training materials.
-* Collaborate on resources such as "best practices", "report writing templates", "package template" tailored to NOAA Fisheries applications.
+* Facilitate collaboration on resources such as "best practices", "report writing templates", "package template" tailored to NOAA Fisheries applications.
 * Helping science teams fulfil NOAA Open Science mandates: [NOAA Data Strategy for open and transparent data and analyses](https://sciencecouncil.noaa.gov/Portals/0/2020%20Data%20Strategy.pdf?ver=2020-09-17-150024-997), 
 [Federal Data Strategy for accountability and transparency](https://strategy.data.gov/).
 * Amplify as many open science leaders as possible, transforming their workflows to be more collaborative, efficient and reproducible.
