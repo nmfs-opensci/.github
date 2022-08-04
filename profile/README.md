@@ -10,7 +10,7 @@ and platforms, facilitate collaboration across offices and regions in shared sci
 * Help communicate open science activities and efforts within NOAA Fishieries.
 * Support user groups by providing calendars, discussion threads, and a GitHub org for sharing materials.
 * Facilitate collaboration on "best practices", "report writing templates", "package template" tailored to NOAA Fisheries applications.
-* Helping science teams fulfil NOAA Open Science mandates: [NOAA Data Strategy](https://sciencecouncil.noaa.gov/Portals/0/2020%20Data%20Strategy.pdf?ver=2020-09-17-150024-997), 
+* Help science teams fulfil NOAA Open Science mandates: [NOAA Data Strategy](https://sciencecouncil.noaa.gov/Portals/0/2020%20Data%20Strategy.pdf?ver=2020-09-17-150024-997), 
 [Federal Data Strategy](https://strategy.data.gov/).
 
 ## Open Science at NOAA Fisheries
