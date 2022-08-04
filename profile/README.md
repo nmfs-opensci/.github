@@ -4,8 +4,6 @@
 
 <img align="right" src="https://github.com/nmfs-openscapes/.github/blob/main/profile/nmfs-opensci-logo-white.png" width="400">  
 
-### NMFS Open Science
-
 The overarching vision of NMFS Open Science is to support scientific researchers within NOAA Fisheries in adopting of reproducible scientific workflows
 and platforms, facilitate collaboration across offices and regions in shared scientific data science tasks, provide shared "best practices" resources, and support open science, open data and open source comminities and initiatives with NOAA Fisheries.
 
