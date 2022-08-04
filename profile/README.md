@@ -20,7 +20,7 @@ The NMFS Open Science GitHub org provides a shared GitHub resource to:
 
 ## NMFS Openscapes
 
-<a href="https://openscapes.github.io/nmfs-openscapes/"><img align="right" src="https://github.com/nmfs-openscapes/.github/blob/main/profile/logo-transparent-crop.png" width="300"></a>
+<a href="https://nmfs-openscapes.github.io"><img align="right" src="https://github.com/nmfs-openscapes/.github/blob/main/profile/logo-transparent-crop.png" width="300"></a>
 
-NOAA Fisheries is partnering with [Openscapes](https://www.openscapes.org/) to provide team-based training in reproducible workflows. See our [NMFS Openscapes page](https://openscapes.github.io/nmfs-openscapes/) for information on the program and upcoming Champions Cohorts. Openscapes’ long-term goal is to enable robust, inclusive, and enduring science- and data-driven solutions to global and time-sensitive challenges. We approach open science as a spectrum, as a behavior change, and as a movement. We see data analysis and stewardship as entryways to meet scientists where they are, helping them develop new skill sets and mindsets while empowering them as leaders. 
+NOAA Fisheries is partnering with [Openscapes](https://www.openscapes.org/) to provide team-based training in reproducible workflows. See our [NMFS Openscapes page](https://nmfs-openscapes.github.io) for information on the program and upcoming Champions Cohorts. Openscapes’ long-term goal is to enable robust, inclusive, and enduring science- and data-driven solutions to global and time-sensitive challenges. We approach open science as a spectrum, as a behavior change, and as a movement. We see data analysis and stewardship as entryways to meet scientists where they are, helping them develop new skill sets and mindsets while empowering them as leaders. 
 
