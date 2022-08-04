@@ -17,6 +17,21 @@ The NMFS Open Science GitHub org provides a shared GitHub resource to:
 [Federal Data Strategy for accountability and transparency](https://strategy.data.gov/).
 * Amplify as many open science leaders as possible, transforming their workflows to be more collaborative, efficient and reproducible.
 
+<style>
+.flex-container {
+    display: flex;
+}
+
+.flex-child {
+    flex: 1;
+    border: 2px solid yellow;
+}  
+
+.flex-child:first-child {
+    margin-right: 20px;
+} 
+</style>
+
 ## NMFS Openscapes
 
 <a href="https://nmfs-openscapes.github.io"><img align="right" src="https://github.com/nmfs-openscapes/.github/blob/main/profile/logo-transparent-crop.png" width="300"></a>
