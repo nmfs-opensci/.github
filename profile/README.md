@@ -23,7 +23,7 @@ and platforms, facilitate collaboration across offices and regions in shared sci
 ## Resources
 
 <!--
-<a href="https://nmfs-openscapes.github.io/NMFS-R-UG/"><img align="center" src="https://github.com/nmfs-openscapes/.github/blob/main/profile/nmfs-r-ug.png" height="30"></a> <a href="https://nmfs-openscapes.github.io/About/"><img align="center" src="https://github.com/nmfs-openscapes/.github/blob/main/profile/resources.png" height="30"></a> 
+<a href="https://nmfs-openscapes.github.io/NMFS-R-UG/"><img align="center" src="https://github.com/nmfs-openscapes/.github/blob/main/logo/nmfs-r-ug.png" height="30"></a> <a href="https://nmfs-openscapes.github.io/About/"><img align="center" src="https://github.com/nmfs-openscapes/.github/blob/main/profile/resources.png" height="30"></a> 
 -->
 <a href="https://calendar.google.com/calendar/embed?src=noaa.gov_60rfn7ml9rpchl63vs4af9n018%40group.calendar.google.com&ctz=America%2FLos_Angeles"><img align="center" src="https://github.com/nmfs-openscapes/.github/blob/main/profile/calendar.png" height="30"></a> <a href="https://github.com/nmfs-openscapes/.github/wiki"><img align="center" src="https://github.com/nmfs-openscapes/.github/blob/main/profile/wiki.png" height="30"></a>
 
