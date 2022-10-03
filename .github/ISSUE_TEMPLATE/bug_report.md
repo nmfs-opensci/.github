@@ -9,10 +9,14 @@ assignees: ''
 
 ### Prerequisites
 
-* [ ] Put an X between the brackets on this line if you have done all of the following:
-    * Followed all applicable steps in the debugging guide: <https://github.com/Openscapes/2021-noaa-nmfs/wiki/2-Issues-and-Project-Boards>
-    * Checked the FAQs on the message board for common solutions
-    * Checked that your issue isn't already filed.
+* Run `quarto --version` and report the Quarto version you are using
+* Tell us your OS
+
+Having trouble rendering to PDF?
+
+* Tell us how you are rendering Quarto docs (RStudio, VS Code, command line, etc)
+* Tell us what TeX and version you are using `tex --version`
+* Are you using tinytex (note tinytex is a version of TeX Live)?
 
 ### Description
 
@@ -24,21 +28,6 @@ assignees: ''
 2. <!-- Second Step -->
 3. <!-- and so on… -->
 
-**Expected behavior:**
-
-<!-- What you expect to happen -->
-
-**Actual behavior:**
-
-<!-- What actually happens -->
-
-**Reproduces how often:**
-
-<!-- What percentage of the time does it reproduce? -->
-
-### Versions
-
-<!-- You can get this information from copy and pasting the output of `atom --version` and `apm --version` from the command line. Also, please include the OS and what version of the OS you're running. -->
 
 ### Additional Information
 
