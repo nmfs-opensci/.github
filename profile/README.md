@@ -14,7 +14,7 @@ and platforms, facilitate collaboration across offices and regions in shared sci
 [Federal Data Strategy](https://strategy.data.gov/).
 
 
-**Resources:** [NMFS Open Science Resource Book](https://nmfs-opensci.github.io/ResourceBook/) --- [NMFS GitHub Guidelines]()
+**Resources:** [NMFS Open Science Resource Book](https://nmfs-opensci.github.io/ResourceBook/) --- [NMFS R User Group GitHub Guidelines]()
 
 
 ## Open Science at NOAA Fisheries
