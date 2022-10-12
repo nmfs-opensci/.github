@@ -13,9 +13,9 @@ and platforms, facilitate collaboration across offices and regions in shared sci
 * Help science teams fulfil NOAA Open Science mandates: [NOAA Data Strategy](https://sciencecouncil.noaa.gov/Portals/0/2020%20Data%20Strategy.pdf?ver=2020-09-17-150024-997), 
 [Federal Data Strategy](https://strategy.data.gov/).
 
-<center>
+
 [NMFS Open Science Resource Book](https://nmfs-opensci.github.io/ResourceBook/) --- [NMFS GitHub Guidelines]()
-</center>
+
 
 ## Open Science at NOAA Fisheries
 
