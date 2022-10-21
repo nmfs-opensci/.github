@@ -1,12 +1,11 @@
 ---
-name: Questions
-about: An issue for a question. This gets the label "question" so it is easy for identify.
+name: Blank issue
+about: Blank issue anything not covered by the other templates
 title: ''
-labels: 'question'
+labels: ''
 assignees: ''
 
 ---
 
-## Question
 
 

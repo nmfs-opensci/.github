@@ -1,15 +1,12 @@
 ---
-name: Tasks
-about: An issue for general tasks. This is for the developers.
+name: Questions
+about: An issue for a question. This gets the label "question" so it is easy for identify.
 title: ''
-labels: 'tasks'
+labels: 'question'
 assignees: ''
 
 ---
 
-- [ ]
-- [ ]
-- [ ]
-- [ ]
+## Question
 
 
