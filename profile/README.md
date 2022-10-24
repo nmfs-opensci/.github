@@ -14,7 +14,7 @@ and platforms, facilitate collaboration across offices and regions in shared sci
 [Federal Data Strategy](https://strategy.data.gov/), and the [Federal Open Access Memo](https://www.whitehouse.gov/wp-content/uploads/2022/08/08-2022-OSTP-Public-Access-Memo.pdf)
 
 
-**Resources:** [NMFS Open Science Resource Book](https://nmfs-opensci.github.io/ResourceBook/) --- [NMFS Open Science GitHub Guidelines](https://nmfs-opensci.github.io/GitHub-SOP/) --- [GitHub repo templates](https://github.com/orgs/nmfs-opensci/repositories?q=&type=template&language=&sort=)
+**NMFS Open Sci Resources:** [Resource Book](https://nmfs-opensci.github.io/ResourceBook/) --- [Using GitHub at NMFS](https://nmfs-opensci.github.io/GitHub-SOP/) --- [GitHub repo templates](https://github.com/orgs/nmfs-opensci/repositories?q=&type=template&language=&sort=) --- [NMFS GitHub orgs](https://nmfs-opensci.github.io/ResourceBook/content/github_in_gov.html#github-in-nmfs)
 
 
 ## Open Science at NOAA Fisheries
