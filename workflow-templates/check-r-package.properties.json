@@ -1,0 +1,7 @@
+{
+    "name": "RCMD Check Workflow",
+    "description": "Run RCMD Check on R package.",
+    "filePatterns": [
+        "DESCRIPTION"
+    ]
+}
