@@ -1,4 +1,6 @@
-# Atom Code of Conduct
+# NOAA Fisheries Open Science Code of Conduct
+
+This code of conduct was developed and adapted from the Atom code of conduct in October 2021. 
 
 ## Our Pledge
 
